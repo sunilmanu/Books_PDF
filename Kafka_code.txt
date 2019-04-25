@@ -1,0 +1,23 @@
+/home/cloudera/Softwares/kafka_2.11-0.9.0.0/bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 2 --partitions 1 --topic manutd
+
+/home/cloudera/Softwares/kafka_2.11-0.9.0.0/bin/kafka-topics.sh --list --zookeeper localhost:2181
+
+/home/cloudera/Softwares/kafka_2.11-0.9.0.0/bin/kafka-console-producer.sh --broker-list localhost:9092 --topic manutd
+
+bin/kafka-console-consumer.sh --zookeeper localhost:2181 --bootstrap-server localhost:9092 --topic manutd --from-beginning
+
+/home/cloudera/Softwares/kafka_2.11-0.9.0.0/bin/kafka-server-start.sh config/server.properties
+
+/home/cloudera/Softwares/zookeeper-3.4.10/bin/zkServer.sh start
+
+/home/cloudera/Softwares/zookeeper-3.4.10/bin/zookeeper-server-start.sh config/zookeeper.properties
+
+
+
+
+
+
+
+/usr/lib/spark/bin/run-example streaming.KafkaWordCount <localhost:2181> <localhost:2181> <sunil_2><1>
+
+val kafkaStream = KafkaUtils.createStream(ssc, "localhost:2181","spark-streaming-consumer-group", Map("sunil_2" -> 5))

@@ -1,0 +1,301 @@
+ID,Boat_name,Customer_id,Customer_name,Country,City,State,Zip,Address,Prioduct_id,Category,Sub-Category,Product_name,Sales,Quantity,Discount,Profit
+1,Titanic,10,John,India,Bangalore,Karnataka,566066,Brookfield,20,Footwear,Shoes,Derby shoe,20,2,10,2.36
+2,Titanic,11,Max,India,Bangalore,Karnataka,566067,Brookfield,21,Footwear,Shoes,Diabetic shoe,31,3,20,3.36
+3,Titanic,12,David,India,Bangalore,Karnataka,566068,Brookfield,22,Footwear,Shoes,Dori shoes,42,4,30,4.36
+4,Titanic,13,Michael,India,Bangalore,Karnataka,566069,Brookfield,23,Footwear,Shoes,Dress shoe,53,5,0,5.36
+5,Titanic,14,James,India,Bangalore,Karnataka,566070,Whitefield,24,Footwear,Shoes,Driving moccasins,24,2,0,2.36
+6,Titanic,15,Georgia,India,Bangalore,Karnataka,566071,Sarjapur Road,25,Footwear,Shoes,Earth shoe,515,51,10,1.36
+7,Titanic,16,Robert,India,Bangalore,Karnataka,566072,Whitefield,26,Footwear,Shoes,Derby shoe,316,31,15,1.36
+8,Titanic,17,Christian,India,Bangalore,AP,566073,Bannerghatta Road,27,Footwear,Shoes,Diabetic shoe,647,64,25,4.36
+9,Titanic,18,Thomas,America,Bangalore,AP,566074,Electronic City,28,Footwear,Shoes,Dori shoes,38,3,10,3.36
+10,Titanic,19,Summer,Europe,Bangalore,AP,566075,HSR Layout,29,Footwear,Shoes,Dress shoe,69,6,5,6.36
+11,Titanic,20,Ben,Australia,Vizag,AP,566076,Jayanagar,30,Footwear,Shoes,Driving moccasins,40,4,0,4.36
+12,Titanic,21,George,Australia,Vizag,AP,566077,JP Nagar,31,Footwear,Shoes,Earth shoe,4,4,0,4.36
+13,Titanic,22,Jack,Australia,Vizag,AP,566078,Hosur Road,32,Footwear,Shoes,Elevator shoes,61,61,10,1.36
+14,Titanic,23,Richard,America,Vizag,AP,566079,Indira Nagar,33,Footwear,Shoes,Espadrille,4,4,10,1.36
+15,Titanic,24,Angel,America,Vizag,Tamilnadu,566080,Koramangala,34,Footwear,Shoes,Fashion boot,3,3,10,1.36
+16,Titanic,25,William,America,Vizag,Tamilnadu,566081,Yelahanka,35,Footwear,Shoes,Galesh,6,6,20,1.36
+17,Titanic,26,Dave,America,Vizag,Tamilnadu,566082,Hesaraghatta Main Road,36,Footwear,Shoes,Giveh,64,64,20,1.36
+18,Titanic,27,Sam,Europe,Tirupathi,Tamilnadu,566083,Devanahalli,37,Footwear,Shoes,High-heeled footwear,2,2,10,1.36
+19,Titanic,28,Eric,Europe,Tirupathi,Tamilnadu,566084,Marathahalli,38,Footwear,Shoes,Adidas Kampung,3,3,20,1.36
+20,Titanic,29,Louis,Europe,Tirupathi,Tamilnadu,566085,Hebbal,39,Footwear,Shoes,Ballet shoe,4,4,30,2.36
+21,Titanic,30,Charles,Europe,Tirupathi,Assam,566086,Kanakapura Road,40,Footwear,Shoes,Ballet flat,5,5,0,2.36
+22,Titanic,31,Mary,India,Tirupathi,Assam,566087,Anekal,41,Footwear,Shoes,Pointe shoe,2,2,0,2.36
+23,Titanic,32,Harry,India,Tirupathi,Assam,566088,Hennur Road,42,Footwear,Shoes,Bast shoe,51,51,10,2.36
+24,Titanic,33,Joe,India,Tirupathi,Assam,566089,C V Raman Nagar,43,Footwear,Shoes,Blucher shoe,31,31,15,2.36
+25,Titanic,34,Diego,India,Tirupathi,Assam,566090,Kalyan Nagar,44,Footwear,Shoes,Boat shoe,64,64,25,2.36
+26,Titanic,35,Daniel,India,Tirupathi,Assam,566091,RT Nagar,45,Footwear,Shoes,Brogan (shoes),3,3,10,2.36
+27,Titanic,36,Jordan,India,Ananthapur,Assam,566092,Jalahalli,46,Footwear,Shoes,Brogue shoe,6,6,5,3.36
+28,Titanic,37,Antonio,America,Ananthapur,Assam,566093,HRBR Layout,47,Footwear,Shoes,Brothel creeper,4,4,0,4.36
+29,Titanic,38,Jackson,Europe,Ananthapur,Karnataka,566094,BTM Layout,48,Footwear,Shoes,Bucks,4,4,0,5.36
+30,Titanic,39,Austin,Australia,Ananthapur,Karnataka,566095,Ramamurthy Nagar,49,Footwear,Shoes,Cantabrian albarcas,61,61,10,2.36
+31,Titanic,40,Faith,Australia,Ananthapur,Karnataka,566096,Brooke Field,50,Footwear,Shoes,Chelsea boot,4,4,10,1.36
+32,Titanic,41,Anna,Australia,Ananthapur,AP,566097,Jakkur,51,Footwear,Shoes,Chopine,3,3,10,1.36
+33,Titanic,42,Victoria,America,Ananthapur,AP,566098,Dollars Colony,52,Footwear,Shoes,Climbing shoe,6,6,20,4.36
+34,Titanic,43,Adam,America,Ananthapur,AP,566099,Abbigere,53,Footwear,Shoes,Clog,64,64,20,3.36
+35,Titanic,44,Alex,America,Chitoor,AP,566100,Rajanukunte,54,Footwear,Shoes,Giveh,2,2,15,6.36
+36,Titanic,45,Henry,America,Chitoor,AP,566101,G M Palya,55,Footwear,Shoes,High-heeled footwear,3,3,25,4.36
+37,Titanic,46,Hunter,Europe,Chitoor,AP,566102,Kundalahalli,56,Footwear,Shoes,Adidas Kampung,4,4,10,4.36
+38,Titanic,47,Lewis,Europe,Chitoor,AP,566103,Madiwala,57,Footwear,Shoes,Ballet shoe,5,5,5,1.36
+39,Titanic,48,Brian,Europe,Chitoor,Tamilnadu,566104,Fraser Town,58,Footwear,Shoes,Ballet flat,2,2,0,1.36
+40,Titanic,49,Joseph,Europe,Chitoor,Tamilnadu,566105,Chandapur,59,Footwear,Shoes,Pointe shoe,51,51,0,1.36
+41,Titanic,50,Jesus,India,Chitoor,Tamilnadu,566106,Gottigere,60,Footwear,Shoes,Bast shoe,31,31,10,1.36
+42,Titanic,51,Taylor,India,Chitoor,Tamilnadu,566107,Basavanagar,61,Footwear,Shoes,Blucher shoe,64,64,10,1.36
+43,Titanic,52,Kevin,India,Vizag,Tamilnadu,566108,Nagarbhavi,62,Footwear,Shoes,Boat shoe,3,3,10,1.36
+44,Titanic,53,Patrick,India,Vizag,Tamilnadu,566109,Belandur,63,Footwear,Shoes,Brogan (shoes),6,6,20,1.36
+45,Titanic,54,Edward,India,Ananthapur,Assam,566110,Hoskote,64,Footwear,Shoes,Brogue shoe,4,4,20,2.36
+46,Titanic,55,Vincent,India,Ananthapur,Assam,566111,Chamarajpet,65,Footwear,Shoes,Brothel creeper,4,4,10,2.36
+47,Titanic,56,Matt,America,Ananthapur,Assam,566112,Richards Town,66,Footwear,Shoes,Bucks,61,61,20,2.36
+48,Titanic,57,Alexander,Europe,Vizag,Karnataka,566113,Lavelle Road,67,Footwear,Shoes,Cantabrian albarcas,4,4,30,2.36
+49,Titanic,58,Andrew,Australia,Vizag,Karnataka,566114,Kodigehalli,68,Footwear,Shoes,Chelsea boot,3,3,0,2.36
+50,Titanic,59,Juan,Australia,Tirupathi,Karnataka,566115,Chikkajala,69,Footwear,Shoes,Chopine,6,6,0,2.36
+51,Eagle,60,Elizabeth,Australia,Tirupathi,AP,566116,Hanumanth Nagar,70,Footwear,Sandals,Leather  ,64,64,10,1
+52,Eagle,61,Charlotte,America,Tirupathi,AP,566117,Akshaya Nagar,71,Footwear,Sandals,Rope  ,1,1,15,2.36
+53,Eagle,62,Sarah,America,Tirupathi,AP,566118,Thanisandra,72,Footwear,Sandals,Metallic  ,5,5,15,3.36
+54,Eagle,63,Carlos,America,Tirupathi,AP,566119,Sarjapur,73,Footwear,Sandals,Wedge Women  ,7,7,25,4.36
+55,Eagle,64,Jennifer,America,Tirupathi,AP,566120,Hegde Nagar,74,Footwear,Sandals,Flat  ,0,0,10,5.36
+56,Eagle,65,Jason,Europe,Tirupathi,AP,566121,Jigani Industrial Area,75,Footwear,Sandals,Rubber,5,5,5,2.36
+57,Eagle,66,Jay,Europe,Tirupathi,AP,566122,Mathikere,76,Footwear,Sandals,Rubber,0,0,0,1.36
+58,Eagle,67,Sydney,Europe,Tirupathi,Tamilnadu,566123,Rest House Road,77,Footwear,Sandals,Rubber,0,0,0,1.36
+59,Eagle,68,Sean,Europe,Bangalore,Tamilnadu,566124,Begur Road,78,Footwear,Sandals,Rubber,0,0,10,4.36
+60,Eagle,69,Morgan,India,Bangalore,Tamilnadu,566125,Rajajinagar,79,Footwear,Sandals,Rubber,0,0,10,3.36
+61,Eagle,70,Grace,India,Bangalore,Tamilnadu,566126,MG Road,80,Footwear,Sandals,Rubber,2,2,10,6.36
+62,Eagle,71,Andy,India,Bangalore,Tamilnadu,566127,HBR Layout,81,Footwear,Sandals,Rubber,3,3,20,4.36
+63,Titanic,72,Ryan,India,Vizag,Tamilnadu,566128,Banaswadi,82,Footwear,Sandals,Wedge Women  ,4,4,20,4.36
+64,Titanic,73,Laura,India,Vizag,Assam,566129,Uttarahalli,83,Footwear,Sandals,Wedge Women  ,5,5,10,1.36
+65,Titanic,74,Mia,India,Vizag,Assam,566130,Airport Road,84,Footwear,Sandals,Rope  ,2,2,20,1.36
+66,Titanic,75,Anthony,America,Vizag,Assam,566131,Thippasandra,85,Footwear,Sandals,Metallic  ,51,51,30,1.36
+67,Titanic,76,Steven,Europe,Vizag,Karnataka,566132,Banashankari,86,Footwear,Sandals,Metallic  ,31,31,0,1.36
+68,Titanic,77,Eve,Australia,Vizag,Karnataka,566133,Bagalur,87,Footwear,Sandals,Metallic  ,64,64,0,1.36
+69,Mantra,78,Madison,Australia,Vizag,Karnataka,566134,Horamavu,88,Footwear,Sandals,Metallic  ,3,3,10,1.36
+70,Mantra,79,Jessica,Australia,Tirupathi,AP,566135,KR Puram,89,Footwear,Sandals,Metallic  ,6,6,15,1.36
+71,Mantra,80,Alice,America,Tirupathi,AP,566136,Bommanahalli,90,Footwear,Sandals,Leather  ,4,4,10,2.36
+72,Mantra,81,Eva,America,Tirupathi,AP,566137,OMBR Layout,91,Footwear,Sandals,Leather  ,4,4,20,2.36
+73,Mantra,82,Billy,America,Tirupathi,AP,566138,Mysore Road,92,Footwear,Sandals,Leather  ,61,61,30,2.36
+74,Mantra,83,Leo,America,Tirupathi,AP,566139,Silkboard,93,Footwear,Sandals,Leather  ,4,4,0,2.36
+75,Mantra,84,Oscar,Europe,Tirupathi,AP,566140,RMV Extension Stage,94,Footwear,Sandals,Leather  ,3,3,0,2.36
+76,Mantra,85,Charlie,Europe,Tirupathi,AP,566141,Old Madras Road,95,Footwear,Sandals,Rubber,6,6,10,2.36
+77,Mantra,86,Christopher,Europe,Tirupathi,Tamilnadu,566142,Kasturi Nagar,96,Footwear,Sandals,Rubber,64,64,15,1
+78,Mantra,87,Ian,Europe,Tirupathi,Tamilnadu,566143,Tumkur Road,97,Footwear,Sandals,Wedge Women  ,2,2,25,2.36
+79,Mantra,88,Andrea,India,Ananthapur,Tamilnadu,566144,Richmond Road,98,Footwear,Sandals,Wedge Women  ,3,3,10,2.36
+80,Mantra,89,Ruby,India,Ananthapur,Tamilnadu,566145,Vidyaranyapura,99,Footwear,Sandals,Rope  ,4,4,5,2.36
+81,Mantra,90,Matthew,India,Ananthapur,Tamilnadu,566146,Mahadevapura,100,Footwear,Sandals,Metallic  ,5,5,0,2.36
+82,Mantra,91,Jonathan,India,Ananthapur,Tamilnadu,566147,Rajarajeshwari Nagar,101,Footwear,Sandals,Metallic  ,2,2,0,2.36
+83,Mantra,92,Michelle,India,Ananthapur,Assam,566148,Malleshwaram,102,Footwear,Sandals,Metallic  ,51,51,10,2.36
+84,Mantra,93,Chase,India,Ananthapur,Assam,566149,AECS Layout,103,Footwear,Sandals,Metallic  ,31,31,10,1
+85,Mantra,94,Oliver,America,Ananthapur,Assam,566150,Chikkaballapur,104,Footwear,Sandals,Metallic  ,64,64,10,2.36
+86,Mantra,95,Britney,Europe,Ananthapur,Karnataka,566151,Defence Colony,105,Footwear,Sandals,Leather  ,3,3,20,2.36
+87,Mantra,96,Amy,Australia,Chitoor,Karnataka,566152,Kanaka Nagar,106,Footwear,Sandals,Leather  ,6,6,20,2.36
+88,Mantra,97,Nicole,Australia,Chitoor,Karnataka,566153,Hulimavu,107,Footwear,Sandals,Leather  ,4,4,10,2
+89,Mantra,98,Samuel,Australia,Chitoor,AP,566154,Thyagaraj Nagar,108,Footwear,Sandals,Leather  ,4,4,20,2.36
+90,Mantra,99,Justin,America,Chitoor,AP,566155,Basaveshwaranagar,109,Footwear,Sandals,Rope  ,61,61,30,2.36
+91,Mantra,100,Miguel,America,Chitoor,AP,566156,Airport Area,110,Footwear,Sandals,Wedge Women  ,4,4,0,1
+92,Mantra,101,Cole,America,Chitoor,AP,566157,Kumaraswamy Layout,111,Footwear,Sandals,Wedge Women  ,3,3,0,2.36
+93,Mantra,102,Julia,America,Chitoor,AP,566066,Sanjay Nagar,112,Footwear,Sandals,Metallic  ,6,6,10,2.36
+94,Mantra,103,Ashley,Europe,Chitoor,AP,566067,Hoskote,113,Sportswear,Football,Adidas,64,64,15,2.36
+95,Mantra,104,Sara,Europe,Vizag,AP,566068,Kudlu Gate,114,Sportswear,Football,Nike,2,2,25,3
+96,Mantra,105,Brooklyn,Europe,Vizag,Tamilnadu,566069,RBI Layout,115,Sportswear,Football,Puma,3,3,10,2.36
+97,Mantra,106,Lauren,Europe,Ananthapur,Tamilnadu,566070,Palace Road,116,Sportswear,Football,Mercurial,4,4,5,2.36
+98,Mantra,107,Carter,India,Ananthapur,Tamilnadu,566071,Hoodi Village,117,Sportswear,Football,High volt,5,5,0,1
+99,Mantra,108,Benjamin,India,Ananthapur,Tamilnadu,566072,Millers Road,118,Sportswear,Football,Adidas,2,2,0,2.36
+100,Mantra,109,Amber,India,Vizag,Tamilnadu,566073,Huskur,119,Sportswear,Football,Nike,51,51,10,2.36
+101,Mantra,110,Lucas,India,Vizag,Tamilnadu,566074,Vijaya Bank Layout,120,Sportswear,Football,Puma,31,31,10,2.36
+102,Mantra,111,Danny,Europe,Tirupathi,Assam,566075,Shanti Nagar,121,Sportswear,Football,Mercurial,64,64,10,1
+103,Mantra,112,Ella,America,Tirupathi,Assam,566076,Hebbal Kempapura,122,Sportswear,Football,High volt,3,3,20,2
+104,Mantra,113,Gabriel,Australia,Tirupathi,Assam,566077,Tippasandra,123,Sportswear,Football,Adidas,6,6,20,3
+105,Mantra,114,Harley,India,Tirupathi,Karnataka,566078,Naganathapura,124,Sportswear,Football,Nike,4,4,15,4
+106,Mantra,115,Aaron,India,Tirupathi,Karnataka,566079,Yeshwantpur,125,Sportswear,Football,Puma,4,4,25,5
+107,Mantra,116,Rachel,Europe,Tirupathi,Karnataka,566080,Jeevan Bima Nagar,126,Sportswear,Football,Adidas,61,61,10,6
+108,Mantra,117,Joel,America,Tirupathi,AP,566081,Cox Town,127,Sportswear,Football,Adidas,4,4,5,7
+109,Mantra,118,Claire,Australia,Tirupathi,AP,566082,Ulsoor,128,Sportswear,Football,Adidas,3,3,0,8
+110,Mantra,119,Emma,India,Tirupathi,AP,566083,Benson Town,129,Sportswear,Football,Adidas,6,6,0,2.36
+111,Mantra,120,Mason,India,Bangalore,AP,566084,ITPL,130,Sportswear,Football,Adidas,64,64,10,2.36
+112,Mantra,121,Autumn,Europe,Bangalore,AP,566085,Doddaballapur,131,Sportswear,Football,Adidas,1,1,10,2
+113,Mantra,122,Jamie,America,Bangalore,AP,566086,Kaggadaspura,132,Sportswear,Football,Adidas,5,5,10,2.36
+114,Mantra,123,Destiny,Australia,Bangalore,AP,566087,Nagwar,133,Sportswear,Football,Nike,7,7,20,2.36
+115,Mantra,124,Maya,India,Vizag,Tamilnadu,566088,Attibele,134,Sportswear,Football,Nike,0,0,20,1
+116,Mantra,125,Harrison,India,Vizag,Tamilnadu,566089,Padmanabhanagar,135,Sportswear,Football,Nike,5,5,10,2.36
+117,Mantra,126,Luke,Europe,Vizag,Tamilnadu,566090,Vijayanagar,136,Sportswear,Football,Nike,0,0,20,2.36
+118,Mantra,127,Tyler,America,Vizag,Tamilnadu,566091,Kengeri,137,Sportswear,Football,Nike,0,0,30,2.36
+119,Mantra,128,Tyler,Australia,Vizag,Tamilnadu,566092,Peenya,138,Sportswear,Football,Nike,0,0,0,3
+120,Mantra,129,Emily,India,Vizag,Tamilnadu,566093,Magadi Road,139,Sportswear,Football,Nike,0,0,0,2.36
+121,Mantra,130,Emily,India,Vizag,Assam,566094,NelaMangala,140,Sportswear,Football,Nike,2,2,10,2.36
+122,Mantra,131,Jeremy,Europe,Tirupathi,Assam,566095,Sahakar Nagar,141,Sportswear,Football,Nike,3,3,15,1
+123,Mantra,132,Bryan,America,Tirupathi,Assam,566096,Dodballapur Road,142,Sportswear,Football,Nike,4,4,15,2.36
+124,Mantra,133,Holly,Australia,Tirupathi,Madhya Pradesh,566097,Outer Ring Road,143,Sportswear,Football,Adidas,5,5,25,2.36
+125,Mantra,134,Kai,India,Tirupathi,Madhya Pradesh,566098,Vigyan Nagar,144,Sportswear,Football,Adidas,2,2,10,2.36
+126,Mantra,135,Katie,Australia,Tirupathi,Madhya Pradesh,566099,Basavanagudi,145,Sportswear,Football,Adidas,51,51,5,1
+127,Mantra,136,Theo,America,Tirupathi,Maharashtra,566100,Mallesh Palaya,146,Sportswear,Football,Adidas,31,31,0,2
+128,Mantra,137,Jacob,America,Tirupathi,Maharashtra,566101,Domlur,147,Sportswear,Football,Nike,64,64,0,3
+129,Mantra,138,Jacob,America,Tirupathi,Maharashtra,566102,Cookes Town,148,Sportswear,Football,Nike,3,3,10,2.36
+130,Mantra,139,Jake,America,Tirupathi,Maharashtra,566103,Old Airport Road,149,Sportswear,Football,Adidas,6,6,10,2.36
+131,Mantra,140,Lucy,Europe,Ananthapur,Kerala,566104,Bellary Road,150,Sportswear,Football,Adidas,4,4,10,2
+132,Mantra,141,Cameron,Europe,Ananthapur,Kerala,566105,Sadaramangala,151,Sportswear,Football,Adidas,4,4,20,2.36
+133,Mantra,142,Brandon,Europe,Ananthapur,Kerala,566106,Anjanapura,152,Sportswear,Football,Adidas,61,61,20,2.36
+134,Mantra,143,Trinity,Europe,Ananthapur,Kerala,566107,Majestic,153,Sportswear,Football,Adidas,4,4,10,1
+135,Mantra,144,Harvey,India,Ananthapur,Gujrat,566108,Vasanth Nagar,154,Sportswear,Cricket,Adidas,3,3,20,2.36
+136,Mantra,145,Rebecca,India,Ananthapur,Gujrat,566109,Wilson Garden,155,Sportswear,Cricket,Nike,6,6,30,2.36
+137,Mantra,146,Nicholas,India,Ananthapur,Gujrat,566110,ISRO Layout,156,Sportswear,Cricket,Puma,64,64,0,2.36
+138,Mantra,147,Martha,India,Ananthapur,Gujrat,566111,HMT Layout,157,Sportswear,Cricket,Mercurial,2,2,0,3
+139,Mantra,148,Daisy,India,Chitoor,Gujrat,566112,Nagawara,158,Sportswear,Cricket,High volt,3,3,10,2.36
+140,Mantra,149,Ellis,India,Chitoor,AP,566113,Doddaballapur Road,159,Sportswear,Cricket,Adidas,4,4,15,2.36
+141,Mantra,150,Lily,America,Chitoor,Tamilnadu,566114,Central Silk Board,160,Sportswear,Cricket,Nike,5,5,10,1
+142,Mantra,151,Caroline,Europe,Chitoor,Karnataka,566115,Nandi Hills,161,Sportswear,Cricket,Puma,2,2,20,2.36
+143,Vaishu,152,Bradley,Australia,Chitoor,Gujrat,566116,Ganganagar,162,Sportswear,Cricket,Adidas,51,51,30,2.36
+144,Vaishu,153,Vanessa,Australia,Chitoor,AP,566117,Bommasandra,163,Sportswear,Cricket,Adidas,31,31,0,2.36
+145,Vaishu,154,Stephanie,Australia,Chitoor,Tamilnadu,566118,Pai Layout,164,Sportswear,Cricket,Adidas,64,64,0,1
+146,Vaishu,155,Joshua,America,Chitoor,Karnataka,566119,Sadaramangala,165,Sportswear,Cricket,Adidas,3,3,10,2
+147,Vaishu,156,Alicia,America,Vizag,Tamilnadu,566120,Prashanth Nagar,166,Sportswear,Cricket,Adidas,6,6,15,3
+148,Vaishu,157,Julian,America,Vizag,Tamilnadu,566121,Hennur,167,Sportswear,Cricket,Adidas,4,4,25,1
+149,Vaishu,158,Frederick,America,Ananthapur,Tamilnadu,566122,Raj Bhavan,168,Sportswear,Cricket,Adidas,4,4,10,2
+150,Vaishu,159,Bailey,Europe,Ananthapur,Tamilnadu,566123,Vidyanagar,169,Sportswear,Cricket,Nike,61,61,5,3
+151,Vaishu,160,Alexa,Europe,Ananthapur,Tamilnadu,566124,Bilekahalli,170,Sportswear,Cricket,Nike,4,4,0,2
+152,Vaishu,161,Timothy,Europe,Vizag,Tamilnadu,566125,Manek Chowk,171,Sportswear,Cricket,Nike,3,3,0,2.36
+153,Titanic,162,Sophie,Europe,Vizag,Assam,566126,Chambal River,172,Sportswear,Cricket,Nike,6,6,10,3.36
+154,Titanic,163,Nathan,India,Tirupathi,Assam,566127,Indraprastha,173,Sportswear,Cricket,Nike,64,64,10,4.36
+155,Titanic,164,Shannon,India,Tirupathi,Assam,566128,Sarjapur Road,174,Sportswear,Cricket,Nike,2,2,10,5.36
+156,Titanic,165,Blake,India,Tirupathi,Madhya Pradesh,566129,Whitefield,175,Sportswear,Cricket,Nike,3,3,20,2.36
+157,Titanic,166,Dylan,India,Tirupathi,Madhya Pradesh,566130,Bannerghatta Road,176,Sportswear,Cricket,Nike,4,4,20,1.36
+158,Titanic,167,Logan,Europe,Tirupathi,Madhya Pradesh,566131,Electronic City,177,Sportswear,Cricket,Nike,5,5,10,1.36
+159,Titanic,168,Angelina,America,Tirupathi,Maharashtra,566132,HSR Layout,178,Sportswear,Cricket,Nike,2,2,20,4.36
+160,Titanic,169,Owen,Australia,Tirupathi,Maharashtra,566133,Jayanagar,179,Sportswear,Tennis,Adidas,51,51,30,3.36
+161,Titanic,170,Kyle,India,Tirupathi,Maharashtra,566134,JP Nagar,180,Sportswear,Tennis,Adidas,31,31,0,6.36
+162,Titanic,171,Isaac,India,Tirupathi,Maharashtra,566135,Hosur Road,181,Sportswear,Tennis,Adidas,64,64,0,4.36
+163,Titanic,172,Jose,Europe,Bangalore,Kerala,566136,Indira Nagar,182,Sportswear,Tennis,Adidas,3,3,10,4.36
+164,Titanic,173,Natalie,America,Bangalore,Kerala,566137,Koramangala,183,Sportswear,Tennis,Nike,6,6,15,1.36
+165,Eagle,174,Lara,Australia,Bangalore,Kerala,566138,Yelahanka,184,Sportswear,Tennis,Nike,4,4,25,1.36
+166,Eagle,175,Carson,India,Bangalore,Kerala,566139,Hesaraghatta Main Road,185,Sportswear,Tennis,Adidas,4,4,10,1.36
+167,Eagle,176,Jenna,India,Vizag,Gujrat,566140,Devanahalli,186,Sportswear,Tennis,Adidas,61,61,5,1.36
+168,Eagle,177,Demi,Europe,Vizag,Gujrat,566141,Marathahalli,187,Sportswear,Tennis,Adidas,4,4,0,1.36
+169,Eagle,178,Mariah,America,Vizag,Gujrat,566142,Hebbal,188,Sportswear,Tennis,Adidas,3,3,0,1.36
+170,Eagle,179,Savannah,Australia,Vizag,Gujrat,566143,Kanakapura Road,189,Sportswear,Tennis,Adidas,6,6,10,1.36
+171,Eagle,180,Alexandra,India,Vizag,Gujrat,566144,Anekal,190,Sportswear,Tennis,Adidas,64,64,10,2.36
+172,Eagle,181,Hannah,India,Vizag,AP,566145,Hennur Road,191,Sportswear,Tennis,Adidas,1,1,10,2.36
+173,Eagle,182,Sofia,Europe,Vizag,Tamilnadu,566146,C V Raman Nagar,192,Sportswear,Tennis,Adidas,5,5,20,2.36
+174,Eagle,183,Maria,America,Tirupathi,Karnataka,566147,Kalyan Nagar,193,Sportswear,Tennis,Adidas,7,7,20,2.36
+175,Eagle,184,Isla,Australia,Tirupathi,Gujrat,566148,RT Nagar,194,Sportswear,Tennis,Nike,0,0,15,2.36
+176,Eagle,185,Xavier,India,Tirupathi,AP,566149,Jalahalli,195,Sportswear,Tennis,Nike,5,5,25,2.36
+177,Eagle,186,Connor,India,Tirupathi,Tamilnadu,566150,HRBR Layout,196,Sportswear,Tennis,Adidas,0,0,10,2.36
+178,Eagle,187,Erin,Europe,Tirupathi,Karnataka,566151,BTM Layout,197,Sportswear,Tennis,Adidas,0,0,5,3.36
+179,Eagle,188,Alexis,America,Tirupathi,Tamilnadu,566152,Ramamurthy Nagar,198,Sportswear,Tennis,Adidas,0,0,0,4.36
+180,Eagle,189,Isabel,Australia,Tirupathi,Tamilnadu,566153,Brooke Field,199,Sportswear,Tennis,Adidas,0,0,0,5.36
+181,Eagle,190,Melanie,India,Tirupathi,Tamilnadu,566154,Jakkur,200,Sportswear,Tennis,Adidas,2,2,10,2.36
+182,Eagle,191,Olivia,Australia,Tirupathi,Tamilnadu,566155,Dollars Colony,201,Sportswear,Tennis,Adidas,3,3,10,1.36
+183,Eagle,192,Olivia,America,Ananthapur,Tamilnadu,566156,Abbigere,202,Sportswear,Tennis,Adidas,4,4,10,1.36
+184,Eagle,193,Samantha,America,Ananthapur,Tamilnadu,566157,Rajanukunte,203,Sportswear,Tennis,Adidas,5,5,20,4.36
+185,Vaishu,194,Riley,America,Ananthapur,Assam,566066,G M Palya,204,Sportswear,Tennis,Adidas,2,2,20,3.36
+186,Vaishu,195,Molly,America,Ananthapur,Assam,566067,Kundalahalli,205,Sportswear,Tennis,Nike,51,51,10,6.36
+187,Vaishu,196,Katherine,Europe,Ananthapur,Assam,566068,Madiwala,206,Sportswear,Tennis,Nike,31,31,20,4.36
+188,Vaishu,197,Luca,Europe,Ananthapur,Madhya Pradesh,566069,Fraser Town,207,Sportswear,Tennis,Adidas,64,64,30,4.36
+189,Vaishu,198,Brooke,Europe,Ananthapur,Madhya Pradesh,566070,Chandapur,208,Sportswear,Tennis,Adidas,3,3,0,1.36
+190,Vaishu,199,Elliot,Europe,Ananthapur,Madhya Pradesh,566071,Gottigere,209,Sportswear,Tennis,Adidas,6,6,0,1.36
+191,Vaishu,200,Avery,India,Chitoor,Maharashtra,566072,Basavanagar,210,Sportswear,Tennis,Adidas,4,4,10,1.36
+192,Vaishu,201,Allison,India,Chitoor,Maharashtra,566073,Nagarbhavi,211,Sportswear,Tennis,Adidas,4,4,15,1.36
+193,Vaishu,202,Tia,India,Chitoor,Maharashtra,566074,Belandur,212,Sportswear,Tennis,Adidas,61,61,15,1.36
+194,Vaishu,203,Alejandro,India,Chitoor,Maharashtra,566075,Hoskote,213,Sportswear,Tennis,Nike,4,4,25,1.36
+195,Vaishu,204,Isabella,India,Chitoor,Kerala,566076,Chamarajpet,214,Sportswear,Tennis,Nike,3,3,10,1.36
+196,Vaishu,205,Addison,India,Chitoor,Kerala,566077,Richards Town,215,Men,T-Shirt,Allen solley,6,6,5,2.36
+197,Vaishu,206,Kylie,America,Chitoor,Kerala,566078,Lavelle Road,216,Men,T-Shirt,Peter England,64,64,0,2.36
+198,Vaishu,207,Lola,Europe,Chitoor,Kerala,566079,Kodigehalli,217,Men,T-Shirt,Puma,2,2,0,2.36
+199,Vaishu,208,Ashton,Australia,Vizag,Gujrat,566080,Chikkajala,218,Men,T-Shirt,UCB,3,3,10,2.36
+200,Vaishu,209,Darren,Australia,Vizag,Gujrat,566081,Hanumanth Nagar,219,Men,T-Shirt,FCUk,4,4,10,2.36
+201,Vaishu,210,Luis,Australia,Ananthapur,Gujrat,566082,Akshaya Nagar,220,Men,T-Shirt,Indian Terrain,5,5,10,2.36
+202,Vaishu,211,Noah,America,Ananthapur,Gujrat,566083,Thanisandra,221,Men,T-Shirt,Allen solley,2,2,20,1
+203,Vaishu,212,Lilly,America,Ananthapur,Gujrat,566084,Sarjapur,222,Men,T-Shirt,Peter England,51,51,20,2.36
+204,Vaishu,213,Evan,America,Vizag,AP,566085,Hegde Nagar,223,Men,T-Shirt,Puma,31,31,10,3.36
+205,Vaishu,214,Sophia,America,Vizag,Tamilnadu,566086,Jigani Industrial Area,224,Men,T-Shirt,UCB,64,64,20,4.36
+206,Vaishu,215,Kimberly,Europe,Tirupathi,Karnataka,566087,Mathikere,225,Men,T-Shirt,FCUk,3,3,30,5.36
+207,Vaishu,216,Audrey,Europe,Tirupathi,Gujrat,566088,Rest House Road,226,Men,T-Shirt,Indian Terrain,6,6,0,2.36
+208,Vaishu,217,Ava,Europe,Tirupathi,AP,566089,Begur Road,227,Men,T-Shirt,UCB,4,4,0,1.36
+209,Vaishu,218,Megan,Europe,Tirupathi,Tamilnadu,566090,Rajajinagar,228,Men,T-Shirt,FCUk,4,4,10,1.36
+210,Vaishu,219,Jasmine,India,Tirupathi,Karnataka,566091,MG Road,229,Men,T-Shirt,Indian Terrain,61,61,15,4.36
+211,Vaishu,220,Fraser,India,Tirupathi,Tamilnadu,566092,HBR Layout,230,Men,T-Shirt,Allen solley,4,4,10,3.36
+212,Vaishu,221,Natasha,India,Tirupathi,Tamilnadu,566093,Banaswadi,231,Men,T-Shirt,Peter England,3,3,20,6.36
+213,Vaishu,222,Courtney,India,Tirupathi,Tamilnadu,566094,Uttarahalli,232,Men,T-Shirt,Puma,6,6,30,4.36
+214,Stormer,223,Muhammad,Europe,Tirupathi,Tamilnadu,566095,Airport Road,233,Men,T-Shirt,UCB,64,64,0,4.36
+215,Stormer,224,Evelyn,America,Chitoor,Tamilnadu,566096,Thippasandra,234,Men,T-Shirt,Allen solley,2,2,0,1.36
+216,Stormer,225,Hayden,Australia,Chitoor,Tamilnadu,566097,Banashankari,235,Men,T-Shirt,Peter England,3,3,10,1.36
+217,Stormer,226,Toby,India,Chitoor,Assam,566098,Bagalur,236,Men,T-Shirt,Puma,4,4,15,1.36
+218,Stormer,227,Corey,India,Chitoor,Assam,566099,Horamavu,237,Men,T-Shirt,UCB,5,5,25,1.36
+219,Stormer,228,Natalia,Europe,Chitoor,Assam,566100,KR Puram,238,Men,T-Shirt,FCUk,2,2,10,1.36
+220,Stormer,229,Tristan,America,Vizag,Madhya Pradesh,566101,Bommanahalli,239,Men,T-Shirt,Indian Terrain,51,51,5,1.36
+221,Stormer,230,Poppy,Australia,Vizag,Madhya Pradesh,566102,OMBR Layout,240,Men,T-Shirt,UCB,31,31,0,1.36
+222,Stormer,231,Freddie,India,Ananthapur,Madhya Pradesh,566103,Mysore Road,241,Men,T-Shirt,FCUk,64,64,0,2.36
+223,Stormer,232,Ethan,India,Ananthapur,Maharashtra,566104,Silkboard,242,Men,T-Shirt,Indian Terrain,3,3,10,2.36
+224,Stormer,233,Isabelle,Europe,Ananthapur,Maharashtra,566105,RMV Extension Stage,243,Men,T-Shirt,Allen solley,6,6,10,2.36
+225,Stormer,234,Skye,America,Vizag,Maharashtra,566106,Old Madras Road,244,Men,T-Shirt,Peter England,4,4,10,2.36
+226,Stormer,235,Madeleine,Australia,Vizag,Maharashtra,566107,Kasturi Nagar,245,Men,Shirt,Peter England,4,4,20,2.36
+227,Stormer,236,Mohammed,India,Tirupathi,Kerala,566108,Tumkur Road,246,Men,Shirt,Puma,61,61,20,2.36
+228,Stormer,237,Gavin,India,Tirupathi,Kerala,566109,Richmond Road,247,Men,Shirt,UCB,4,4,10,1
+229,Stormer,238,Lydia,Europe,Tirupathi,Kerala,566110,Vidyaranyapura,248,Men,Shirt,FCUk,3,3,20,2.36
+230,Stormer,239,Amelia,America,Chitoor,Kerala,566111,Mahadevapura,249,Men,Shirt,Indian Terrain,6,6,30,2.36
+231,Stormer,240,Scarlett,Australia,Chitoor,Gujrat,566112,Rajarajeshwari Nagar,250,Men,Shirt,Allen solley,64,64,0,2.36
+232,Stormer,241,Debra,India,Chitoor,Gujrat,566113,Malleshwaram,251,Men,Shirt,Peter England,1,1,0,2.36
+233,Stormer,242,Alyssa,India,Chitoor,Gujrat,566114,AECS Layout,252,Men,Shirt,Puma,5,5,10,2.36
+234,Stormer,243,Eleanor,Europe,Chitoor,Gujrat,566115,Chikkaballapur,253,Men,Shirt,UCB,7,7,15,2.36
+235,Stormer,244,Rosie,America,Vizag,Gujrat,566116,Defence Colony,254,Men,Shirt,FCUk,0,0,25,1
+236,Stormer,245,Leah,Australia,Vizag,AP,566117,Kanaka Nagar,255,Men,Shirt,Indian Terrain,5,5,10,2.36
+237,Stormer,246,Dominic,India,Ananthapur,Tamilnadu,566118,Hulimavu,256,Men,Shirt,UCB,0,0,5,2.36
+238,Stormer,247,Jeremiah,Australia,Ananthapur,Karnataka,566119,Thyagaraj Nagar,257,Men,Shirt,FCUk,0,0,0,2.36
+239,Stormer,248,Paige,America,Ananthapur,Gujrat,566120,Basaveshwaranagar,258,Men,Shirt,Indian Terrain,0,0,0,2
+240,Titanic,249,Paige,America,Vizag,AP,566121,Airport Area,259,Men,Shirt,Allen solley,0,0,10,2.36
+241,Titanic,250,Sienna,America,Vizag,Tamilnadu,566122,Kumaraswamy Layout,260,Men,Shirt,Peter England,2,2,10,2.36
+242,Titanic,251,Francesca,America,Tirupathi,Karnataka,566123,Sanjay Nagar,261,Men,Shirt,Puma,3,3,10,1
+243,Titanic,252,Mackenzie,Europe,Tirupathi,Tamilnadu,566124,Hoskote,262,Men,Shirt,UCB,4,4,20,2.36
+244,Titanic,253,Leon,Europe,Tirupathi,Tamilnadu,566125,Kudlu Gate,263,Men,Shirt,Allen solley,5,5,20,2.36
+245,Titanic,254,Liam,Europe,Chitoor,Tamilnadu,566126,RBI Layout,264,Men,Shirt,Peter England,2,2,15,2.36
+246,Titanic,255,Harriet,Europe,Chitoor,Tamilnadu,566127,Palace Road,265,Men,Shirt,Puma,51,51,25,3
+247,Titanic,256,Haley,India,Chitoor,Tamilnadu,566128,Hoodi Village,266,Men,Shirt,UCB,31,31,10,2.36
+248,Titanic,257,Isaiah,India,Chitoor,Tamilnadu,566129,Millers Road,267,Men,Shirt,FCUk,64,64,5,2.36
+249,Titanic,258,Lillian,India,Chitoor,Assam,566130,Huskur,268,Men,Shirt,Indian Terrain,3,3,0,1
+250,Titanic,259,Loren,India,Vizag,Assam,566131,Vijaya Bank Layout,269,Men,Shirt,UCB,6,6,0,2.36
+251,Titanic,260,Zara,India,Vizag,Assam,566132,Shanti Nagar,270,Men,Shirt,FCUk,4,4,10,2.36
+252,Titanic,261,Gabrielle,India,Ananthapur,Madhya Pradesh,566133,Hebbal Kempapura,271,Men,Shirt,Indian Terrain,4,4,10,2.36
+253,Titanic,262,Bethany,America,Ananthapur,Madhya Pradesh,566134,Tippasandra,272,Men,Shirt,Allen solley,61,61,10,1
+254,Titanic,263,Elijah,Europe,Ananthapur,Madhya Pradesh,566135,Naganathapura,273,Men,Shirt,Peter England,4,4,20,2
+255,Titanic,264,Libby,Australia,Vizag,Maharashtra,566136,Yeshwantpur,274,Men,Shirt,Peter England,3,3,20,3
+256,Titanic,265,Nathaniel,Australia,Vizag,Maharashtra,566137,Jeevan Bima Nagar,275,Men,Shirt,Puma,6,6,10,4
+257,Titanic,266,Abigail,Australia,Tirupathi,Maharashtra,566138,Cox Town,276,Men,Shirt,UCB,64,64,20,5
+258,Titanic,267,Archie,America,Tirupathi,Maharashtra,566139,Ulsoor,277,Men,Shirt,FCUk,2,2,30,6
+259,Titanic,268,Gabriella,America,Tirupathi,Kerala,566140,Benson Town,278,Men,Shirt,Indian Terrain,3,3,0,7
+260,Titanic,269,Wyatt,America,Chitoor,Kerala,566141,ITPL,279,Men,Shirt,Allen solley,4,4,0,8
+261,Titanic,270,Kayla,America,Chitoor,Kerala,566142,Doddaballapur,280,Men,Shirt,Peter England,5,5,10,2.36
+262,Titanic,271,Phoebe,Europe,Chitoor,Kerala,566143,Kaggadaspura,281,Men,Shirt,Puma,2,2,15,2.36
+263,Eagle,272,Keira,Europe,Chitoor,Gujrat,566144,Nagwar,282,Men,Shirt,UCB,51,51,15,2
+264,Eagle,273,Mohammad,Europe,Chitoor,Gujrat,566145,Attibele,283,Men,Shirt,FCUk,31,31,25,2.36
+265,Eagle,274,Zachary,Europe,Vizag,Gujrat,566146,Padmanabhanagar,284,Men,Shirt,Indian Terrain,64,64,10,2.36
+266,Eagle,275,Madeline,India,Vizag,Gujrat,566147,Vijayanagar,285,Men,Shirt,UCB,3,3,5,1
+267,Eagle,276,Ellie,India,Ananthapur,Gujrat,566148,Kengeri,286,Men,Shirt,FCUk,6,6,0,2.36
+268,Eagle,277,Ewan,India,Ananthapur,AP,566149,Peenya,287,Men,Shirt,Indian Terrain,4,4,0,2.36
+269,Eagle,278,Caleb,India,Ananthapur,Tamilnadu,566150,Magadi Road,288,Men,Shirt,Allen solley,4,4,10,2.36
+270,Eagle,279,Aubrey,Europe,Vizag,Karnataka,566151,NelaMangala,289,Men,Shirt,Peter England,61,61,10,3
+271,Eagle,280,Matilda,America,Vizag,Gujrat,566152,Sahakar Nagar,290,Men,Shirt,Puma,4,4,10,2.36
+272,Eagle,281,Finley,Australia,Tirupathi,AP,566153,Dodballapur Road,291,Men,Shirt,UCB,3,3,20,2.36
+273,Eagle,282,Aaliyah,India,Tirupathi,Tamilnadu,566154,Outer Ring Road,292,Men,Shirt,Allen solley,6,6,20,1
+274,Eagle,283,Sebastian,India,Tirupathi,Karnataka,566155,Vigyan Nagar,293,Men,Shirt,Peter England,64,64,10,2.36
+275,Eagle,284,Reuben,Europe,Chitoor,Tamilnadu,566156,Basavanagudi,294,Men,Shirt,Puma,2,2,20,2.36
+276,Eagle,285,Gracie,America,Chitoor,Tamilnadu,566157,Mallesh Palaya,295,Men,Shirt,UCB,3,3,30,2.36
+277,Eagle,286,Ariana,Australia,Chitoor,Tamilnadu,566066,Domlur,296,Men,Shirt,FCUk,4,4,0,1
+278,Eagle,287,Rhys,India,Chitoor,Tamilnadu,566067,Cookes Town,297,Men,Shirt,Indian Terrain,5,5,0,2
+279,Eagle,288,Brianna,India,Chitoor,Tamilnadu,566068,Old Airport Road,298,Men,Shirt,UCB,2,2,10,3
+280,Eagle,289,Jocelyn,Europe,Vizag,Tamilnadu,566069,Bellary Road,299,Men,Shirt,FCUk,51,51,15,2.36
+281,Eagle,290,Tilly,America,Vizag,Assam,566070,Sadaramangala,300,Men,Shirt,Indian Terrain,31,31,10,2.36
+282,Eagle,291,Landon,Australia,Ananthapur,Assam,566071,Anjanapura,301,Men,Shirt,Allen solley,64,64,5,2
+283,Eagle,292,Layla,India,Ananthapur,Assam,566072,Majestic,302,Men,Shirt,Peter England,3,3,0,2.36
+284,Eagle,293,Joost,India,Ananthapur,Madhya Pradesh,566073,Vasanth Nagar,303,Men,Shirt,Peter England,6,6,0,2.36
+285,Eagle,294,Caitlin,Europe,Vizag,Madhya Pradesh,566074,Wilson Garden,304,Men,Shirt,Puma,4,4,10,1
+286,Eagle,295,Freya,America,Vizag,Madhya Pradesh,566075,ISRO Layout,305,Men,Shirt,UCB,4,4,10,2.36
+287,Eagle,296,Arianna,Australia,Tirupathi,Maharashtra,566076,HMT Layout,306,Men,Shirt,FCUk,61,61,10,2.36
+288,Eagle,297,Millie,India,Tirupathi,Maharashtra,566077,Nagawara,307,Men,Shirt,Indian Terrain,4,4,20,2.36
+289,Eagle,298,Gianna,India,Tirupathi,Maharashtra,566078,Doddaballapur Road,308,Men,Shirt,Allen solley,3,3,20,3
+290,Eagle,299,Reece,Europe,Chitoor,Maharashtra,566079,Central Silk Board,309,Men,Shirt,Peter England,6,6,10,2.36
+291,Eagle,300,Hailey,America,Chitoor,Kerala,566080,Nandi Hills,310,Men,Shirt,Puma,64,64,20,2.36
+292,Eagle,301,Kieran,Australia,Chitoor,Kerala,566081,Ganganagar,311,Men,Shirt,UCB,1,1,30,1
+293,Eagle,302,Alfie,India,Chitoor,Kerala,566082,Bommasandra,312,Men,Shirt,FCUk,5,5,0,2.36
+294,Eagle,303,Aiden,Europe,Chitoor,Kerala,566083,Pai Layout,313,Men,Shirt,Indian Terrain,7,7,0,2.36
+295,Eagle,304,Imogen,America,Vizag,Gujrat,566084,Sadaramangala,314,Men,Shirt,UCB,0,0,10,2.36
+296,Eagle,305,Kaitlyn,Australia,Vizag,Gujrat,566085,Prashanth Nagar,315,Men,Shirt,FCUk,5,5,15,1
+297,Eagle,306,Alisha,India,Ananthapur,Gujrat,566086,Hennur,316,Men,Shirt,Indian Terrain,0,0,30,2
+298,Eagle,307,Eloise,Europe,Ananthapur,Gujrat,566087,Raj Bhavan,317,Men,Shirt,Allen solley,0,0,0,3
+299,Eagle,308,Abbie,America,Ananthapur,Gujrat,566088,Vidyanagar,318,Men,Shirt,Peter England,0,0,0,1
+300,Eagle,309,Mollie,Australia,Vizag,AP,566089,Bilekahalli,319,Men,Shirt,Puma,0,0,10,2
